@@ -1,7 +1,7 @@
 
 # 🧩 MCP Servers — Simple Explanation & Actionable Guide
 
-## ✅ **What Is an MCP Server? (Simple Words)**
+## ✅ **What Is an MCP Server? (Simple Words)**(connects your LLM with external database resources)
 
 **MCP = Model Context Protocol.**
 
