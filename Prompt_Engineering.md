@@ -263,14 +263,3 @@ To get the best results from Copilot:
 
 These techniques help Copilot deliver accurate, high-quality code suggestions consistently.
 
----
-
-## Extras / Next Steps
-
-If you want, I can:
-- ✅ Convert this into a PDF
-- ✅ Add diagrams
-- ✅ Add an advanced prompt engineering section
-- ✅ Add GitHub badges, a TOC badge, or icons
-
-Tell me which extras you'd like and I’ll update the README accordingly.
